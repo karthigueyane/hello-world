@@ -216,3 +216,5 @@ pip-log.txt
 .mr.developer.cfg
 *.suo
 New folder/test01.suo
+New folder/test01.suo
+*.suo
